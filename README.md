@@ -19,8 +19,8 @@ Welcome to my GitHub profile!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matlab.svg" alt="MATLAB" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nationalinstruments.svg" alt="LabVIEW" width="50" height="50"/>
+  <img src="assets/matlab.png" alt="MATLAB" width="50" height="50"/>
+  <img src="assets/labview.png" alt="LabVIEW" width="50" height="50"/>
 </p>
 
 
