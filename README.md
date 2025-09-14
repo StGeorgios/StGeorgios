@@ -15,11 +15,12 @@ Welcome to my GitHub profile!
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat)
+![LabVIEW](https://img.shields.io/badge/-LabVIEW-FDAA00?logo=national-instruments&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat)
-![LabVIEW](https://img.shields.io/badge/-LabVIEW-FDAA00?logo=national-instruments&logoColor=white&style=flat)
+
 
 ---
 
