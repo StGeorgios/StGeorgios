@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 - 🔭 I’m currently working on my personal website  
-- 🌱 I’m actively c++  
+- 🌱 I’m learning C++ and Python at the moment
 - 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)  
 - ⚡ In my free time I run, read and play video games
 
