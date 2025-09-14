@@ -3,11 +3,10 @@
 Welcome to my GitHub profile!  
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **awesome projects**  
-- 🌱 I’m learning 
-- 💬 Ask me about   
+- 🔭 I’m currently working on my personal website  
+- 🌱 I’m actively c++  
 - 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)  
-- ⚡ Fun fact: I love coffee and building side projects ☕  
+- ⚡ In my free time I run, read and play video games
 
 ---
 
