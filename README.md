@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ## 🚀 About Me
 - 🔭 I’m currently working on my personal website  
 - 🌱 I’m learning C++ and Python at the moment
-- 📫 Reach me at: [gstefanidis@ethz.ch](mailto:gstefanidis@ethz.ch)  
+- 📫 Reach me at: [mymail@mail.ch](mailto:mymail@mail.ch)  
 - ⚡ In my free time I run, read and play video games
 
 ---
