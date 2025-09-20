@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ## 🚀 About Me
 - 🔭 I’m currently working on my personal website  
 - 🌱 I’m learning C++ and Python at the moment
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)  
+- 📫 Reach me at: [gstefanidis@ethz.ch](mailto:gstefanidis@ethz.ch)  
 - ⚡ In my free time I run, read and play video games
 
 ---
@@ -33,6 +33,5 @@ Welcome to my GitHub profile!
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/st-georgios/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat)](https://your-portfolio-link.com)
 
 
